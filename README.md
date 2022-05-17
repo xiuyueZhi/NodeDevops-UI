@@ -1,57 +1,24 @@
-# DevOps
+# node-devops
 
-This project is initialized with [DevOps](https://pro.ant.design). Follow is the quick guide for how to use.
+node-devops 是基于 node 的 devops 系统，了解整套 CI/CD 流程。
 
-## Environment Prepare
+## 流程
+![CICD-CICD流程 drawio](https://user-images.githubusercontent.com/33477087/168854148-08974050-67ce-474f-97e8-3e0b5211a5fe.png)
 
-Install `node_modules`:
 
-```bash
-npm install
-```
+## 项目结构
 
-or
+- [ ] [服务端](https://github.com/xiuyueZhi/NodeDevops/tree/master#server)
+- [ ] [前端](https://github.com/xiuyueZhi/NodeDevops-UI/tree/master#react)
 
-```bash
-yarn
-```
+## 框架
 
-## Provided Scripts
+- [ ] [Egg](https://eggjs.github.io/zh/quickstart/egg.html)
 
-DevOps provides some useful script to help you quick start and build with web project, code style check and test.
+## API
 
-Scripts provided in `package.json`. It's safe to modify or add additional script:
+- [ ] [Gitlab API](https://docs.gitlab.com/ee/api/)
+- [ ] [Jenkins API](https://www.npmjs.com/package/jenkins)
 
-### Start project
-
-```bash
-npm start
-```
-
-### Build project
-
-```bash
-npm run build
-```
-
-### Check code style
-
-```bash
-npm run lint
-```
-
-You can also use script to auto fix some lint error:
-
-```bash
-npm run lint:fix
-```
-
-### Test code
-
-```bash
-npm test
-```
-
-## More
-
-You can view full document on our [official website](https://pro.ant.design). And welcome any feedback in our [github](https://github.com/ant-design/ant-design-pro).
+## 资料
+- [ ] [流程&架构图](https://github.com/xiuyueZhi/NodeDevops/files/8709834/CICD.drawio.zip)
